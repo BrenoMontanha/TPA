@@ -31,7 +31,6 @@ int main() {
 
     int Q;
     cin >> Q;
-    cout << "\n";
     while (Q--) {
         int x, y;
         cin >> x >> y;
